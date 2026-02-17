@@ -137,7 +137,7 @@ comment extension: [Better Comments](https://marketplace.visualstudio.com/items?
 function calculateTotal(price: number, discount: number): number {
   // Ensure the discount is never negative or greater than 100
   if (discount < 0 || discount > 100) {
-    throw new Error('Discount must be between 0 and 100');
+    throw new Error("Discount must be between 0 and 100");
   }
 
   // Apply the discount to the price
@@ -159,6 +159,8 @@ style: add dashboard styling syntax
 ```
 
 ### Types
+
+sgfsdfg
 
 - **feat**: A new feature
 - **docs**: Documentation only changes

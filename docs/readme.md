@@ -160,8 +160,6 @@ style: add dashboard styling syntax
 
 ### Types
 
-sgfsdfg
-
 - **feat**: A new feature
 - **docs**: Documentation only changes
 - **fix**: A bug fix
